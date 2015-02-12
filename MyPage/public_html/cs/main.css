@@ -1,0 +1,19 @@
+
+/* 
+    Created on : Feb 12, 2015, 3:26:51 PM
+    Author     : Chris
+*/
+
+body {
+  padding-top: 50px;
+}
+.mainContent {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.myLogo{
+    font-size:40px;
+    float:top left;
+    
+}
